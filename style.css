@@ -26,12 +26,12 @@ h1 {
 section {
   height: 500px;
 }
-.link-button{
+.link-button {
+  background-image: linear-gradient(lightSalmon tomato 45deg);
   text-decoration: none;
-  border-color: orange;  
+  border-color: orange;
   padding: 10px 20px;
   border-radius: 5px;
   color: white;
   font-weight: 700;
-
 }
